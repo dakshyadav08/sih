@@ -1,1 +1,1 @@
-# sih
+Crop Disease Detection 
